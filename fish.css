@@ -273,7 +273,7 @@ div#bg-1-5{
 }
 .object2 {
 
-  animation: object2 4s infinite;
+  animation: object2 6s infinite;
 
 }
 @keyframes object2 {
@@ -293,7 +293,7 @@ div#bg-1-5{
 }
 .object3 {
 
-  animation: object3 5s infinite;
+  animation: object3 7s infinite;
 
 }
 @keyframes object3 {
