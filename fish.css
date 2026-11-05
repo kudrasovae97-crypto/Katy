@@ -1,0 +1,313 @@
+body {
+
+background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/22c2a36aa4df5f277409296879c264e0.jpg');
+
+height:4600px;
+
+}	
+div#parallax-bg-1{
+
+	position: fixed;
+
+	width: 1200px;
+
+	top: 0;
+
+	left: 50%; 
+
+	margin-left: -600px; 
+
+	z-index: 1;
+
+}
+
+div#parallax-bg-2{
+
+	position: fixed;
+
+	width: 1200px;
+
+	top: 0;
+
+	left: 50%; 
+
+	margin-left: -600px; 
+
+	z-index: 2;
+
+}
+
+
+
+div#parallax-bg-3{
+
+	position: fixed;
+
+	width: 960px;
+
+	top: 0;
+
+	left: 50%; 
+
+	margin-left: -470px; 
+
+	z-index: 3;
+
+}
+
+div#parallax-bg-3 div{
+
+	background-repeat:no-repeat;
+
+	position:absolute;
+
+	display:block;
+
+	overflow:hidden;
+
+}
+div#bg-3-1{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/1645096107_4-abrakadabra-fun-p-ribka-na-belom-fone-no-bg-preview.png');
+
+	width:529px;
+
+	height:757px;
+
+	top:-100px;
+
+	right:100px;
+
+}
+div#bg-3-2{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/vintage-fish-illustration_53876-40196-no-bg-preview.png');
+
+	width:603px;
+
+	height:583px;
+
+	top:1050px;
+
+	right:70px;
+
+}
+div#bg-3-3{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/pngtree-dolphin-fish-3d-white-background-png-image-no-bg-preview.png');
+
+	width:846px;
+
+	height:713px;
+
+	top:1800px;
+
+	right:140px;
+
+}
+div#bg-3-4{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/yellow-fish-with-black-eye-white-background-generative-ai_958108-36827-Photoroom.png');
+
+	width:1104px;
+
+	height:684px;
+
+	top:2800px;
+
+	right:0px;
+
+} 
+div#parallax-bg-2 div{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/krasnaya_ikra_karelskoy_foreli_na_razves_novyy_ulov-Photoroom.png');
+
+	background-repeat:no-repeat;
+
+	position:absolute;
+
+	display:block;
+
+	width:488px;
+
+	height:438px;
+
+	overflow:hidden;
+
+}
+
+
+
+div#bg-2-1{
+
+	top:100px;
+
+	left:-310px;
+
+}
+
+div#bg-2-2{
+
+	top:270px;
+
+	right:-70px;
+
+}
+
+div#bg-2-3{
+
+	top:870px;
+
+	left:-300px;
+
+}
+
+div#bg-2-4{
+
+	top:1120px;
+
+	right:-130px;
+
+}
+
+div#bg-2-5{
+
+	top:1620px;
+
+	left:140px;
+
+}
+
+div#bg-2-6{
+
+	top:720px;
+
+	left:340px;
+
+}
+div#parallax-bg-1 div{
+
+	background-repeat:no-repeat;
+
+	position:absolute;
+
+	display:block;
+
+	width:488px;
+
+	height:538px;
+
+	overflow:hidden;
+
+}
+div#bg-1-1{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/e9145b95-bb7d-4376-999c-5525a6d1a16d-Photoroom.png');
+
+	top:200px;
+
+	right:250px;
+
+}
+
+   
+
+div#bg-1-2{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/5cn14b4u8nr31mhm5t7lmjq1uynpfysg-Photoroom.png');
+
+	top:420px;
+
+	left:0px;
+
+}
+
+div#bg-1-3{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/e9145b95-bb7d-4376-999c-5525a6d1a16d-Photoroom.png');
+
+	top:850px;
+
+	right:-290px;
+
+}
+
+div#bg-1-4{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/5cn14b4u8nr31mhm5t7lmjq1uynpfysg-Photoroom.png');
+
+	top:1350px;
+
+	left:200px;
+
+}
+
+div#bg-1-5{
+
+	background:url('https://raw.githack.com/kudrasovae97-crypto/Katy/refs/heads/main/e9145b95-bb7d-4376-999c-5525a6d1a16d-Photoroom.png');
+
+	top:1200px;
+
+	left:-200px;
+
+}  
+.object1 {
+
+  animation: object1 5s infinite;
+
+}
+@keyframes object1 {
+
+  0% {
+
+    transform: translateY(-80);
+
+  }
+
+  100% {
+
+    transform: translateY(410vh);
+
+  }
+
+}
+.object2 {
+
+  animation: object2 4s infinite;
+
+}
+@keyframes object2 {
+
+  0% {
+
+    transform: translateY(-80);
+
+  }
+
+  100% {
+
+    transform: translateY(410vh);
+
+  }
+
+}
+.object3 {
+
+  animation: object3 6s infinite;
+
+}
+@keyframes object3 {
+
+  0% {
+
+    transform: translateY(-80);
+
+  }
+
+  100% {
+
+    transform: translateY(410vh);
+
+  }
+
+}
